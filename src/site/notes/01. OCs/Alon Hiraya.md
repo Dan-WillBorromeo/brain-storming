@@ -3,8 +3,8 @@
 ---
 
 # Overview
-| ![[Alon Hiraya.jpg\|200]] | ![[Alon Hiraya.png\|300]] |
-| ------------------------- | ------------------------- |
+| ![[Alon Hiraya.jpeg\|200]] | ![[Alon Hiraya.png\|300]] |
+| -------------------------- | ------------------------- |
 
 **Name:** Alon Hiraya
 **Alias(es):**
