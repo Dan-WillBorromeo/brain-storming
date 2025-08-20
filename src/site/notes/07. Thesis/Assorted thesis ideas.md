@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-thesis/assorted-thesis-ideas/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/07-thesis/assorted-thesis-ideas/"}
 ---
 
 1. Use computer science methods on a collection of supernatural creatures from Philippine, Southeast Asian, and Spanish folklore to determine which Philippine supernatural creatures were imported or influenced by the Spaniards.
