@@ -20,7 +20,6 @@ Shortly after, she entered into a master’s degree program and signed up for an
 Her act fed Ayahara, a fading deity of hunters and gatherers, enough devotion that it granted Hiraya a share of its powers. She became its primary and sole priestess in the modern age. However, her pact with the deity forbade her entirely from eating meat she did not hunt and butcher nor can she eat fruits she did not gather. While she found out that stealing fruits counts as gathering them, she has yet to find a workaround for meat. She has been craving a burger for two years.
 ## Gallery
 
-
 | ![[Hiraya AS (4).png\|200]] | ![[Hiraya AS (2).png\|200]] | ![[Hiraya AS (3).png\|200]] |
 | --------------------------- | :-------------------------: | :-------------------------: |
 

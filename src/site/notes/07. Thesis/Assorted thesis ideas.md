@@ -5,7 +5,7 @@
 1. Use computer science methods on a collection of supernatural creatures from Philippine, Southeast Asian, and Spanish folklore to determine which Philippine supernatural creatures were imported or influenced by the Spaniards.
 	1. Look into **Computational Folkloristics**
 		1. [Computational folkloristics](https://dl.acm.org/doi/10.1145/2209249.2209267)
-	2. Look into **Phylogenetics in myhtology**
+	2. Look into **Phylogenetics in mythology**
 		1. [A phylogenetic approach of mythology and its archaeological consequences](https://www.researchgate.net/publication/271767548_A_phylogenetic_approach_of_mythology_and_its_archaeological_consequences)
 		2. 
 	3. Possible related thesis to look into:
